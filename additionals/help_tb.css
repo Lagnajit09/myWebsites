@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "poppins", sans-serif;
+    color: #1a1201;
+    background-color: #fff8c9;
+}
+
+
+
+.help{
+    background-color: #eec373;
+    height: 50px;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    margin-bottom: 50px;
+}
+
+.help h1{
+    background-color: #eec373;
+}
+
+.thead{
+    display: flex;
+    justify-content: center;
+    width: 95%;
+    height: 40px;
+    align-items: center;
+    font-weight: bold;
+    margin: 0 auto;
+}
+
+/* .thead .col1,
+.thead .col2,
+.thead .col3,
+.thead .col4,
+.thead .col5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px #1a1201;
+    width: 30%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #eec373;
+} */
+
+.col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px #1a1201;
+    width: 17%;
+    background-color: #eec373;
+    padding: 10px;
+}
+
+
+.row{
+    display: flex;
+    justify-content: center;
+    width: 95%;
+    margin: 0 auto;
+
+}
+
+/* .row .col1,
+.row .col2,
+.row .col3,
+.row .col4,
+.row .col5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px #1a1201;
+    width: 30%;
+    min-height: 300px;
+    background-color: #eec373;
+} */
+
+i{
+    background-color: #eec373;
+    cursor: pointer;
+}
+
