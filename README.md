@@ -2,6 +2,7 @@
 ----------------
 
 Created a Netflix-Clone using ReactJS!
+https://ls-netflixapp.netlify.app/
 
 Netflix Home Page
 -----------------
