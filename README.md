@@ -2,7 +2,7 @@ Hey!
 
 So here's a website for the world of books where you can find all the details about your favorite books.
 
-http://bookmania.42web.io/
+Visit and try it yourself: http://bookmania.42web.io/
 
 
 
